@@ -21,5 +21,8 @@ OwlTakes addresses a significant market need, providing a reliable solution for 
 First Install the Flutter and Dart SDK using the following links - https://docs.flutter.dev/ & https://dart.dev/ respectively with also installing Android Studio - https://developer.android.com/studio.
 Set up correct PATH and as mentioned in Flutter Docs set up the both SDKs with Android Studio. Now after installing Flutter and Dart & setting up the extensions of Flutter & Dart in Android Studio, clone the repo and open it in Android Studio and run the main.dart file. Don't forget to connect your mobile or tablet device to Laptop in Debug Mode :) 
 
-All contributions are welcomed :)
+## Contributions
+
+For any contributions, please first refer to the Idea.pdf file in the Repo. All contributions are welcomed :)
+
 
